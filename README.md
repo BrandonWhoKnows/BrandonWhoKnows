@@ -1,12 +1,8 @@
 # Brandon Teixeira Serafim
-`
-Olá! Estou no início da minha caminhada na área da Tecnologia. 
-Me considero muito curioso e detalhista na hora de entender aquilo com o que estou lidando.
-`
-
-`
-Atualmente, estou sondando e estudando sobre a carreira em Dados.
-`
+> Olá! Estou no início da minha caminhada na área da Tecnologia. 
+> Me considero muito curioso e detalhista na hora de entender aquilo com o que estou lidando.
+>
+>Atualmente, estou sondando e estudando sobre a carreira em Dados.
 ## Conecte-se comigo
 <p align="left">
   <a href="mailto: br.serafim@gmail.com">
@@ -33,4 +29,5 @@ Atualmente, estou sondando e estudando sobre a carreira em Dados.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+## GitHub Stats
 ![BrandonWhoKnows's Stats](https://github-readme-stats.vercel.app/api?username=BrandonWhoKnows&theme=calm&show_icons=true&hide_border=true&count_private=true)
