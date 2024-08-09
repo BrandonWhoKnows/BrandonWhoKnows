@@ -29,5 +29,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+## Meus projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonWhoKnows&repo=lab-natty-or-not&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/BrandonWhoKnows/lab-natty-or-not)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonWhoKnows&repo=desafio-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/BrandonWhoKnows/desafio-felipao)
+
 ## GitHub Stats
 ![BrandonWhoKnows's Stats](https://github-readme-stats.vercel.app/api?username=BrandonWhoKnows&theme=calm&show_icons=true&hide_border=true&count_private=true)
