@@ -2,7 +2,7 @@
 > Olá! Estou no início da minha caminhada na área da Tecnologia. 
 > Me considero muito curioso e detalhista na hora de entender aquilo com o que estou lidando.
 >
->Atualmente, estou sondando e estudando sobre a carreira em Dados.
+>Atualmente, estou sondando e estudando sobre a carreira de desenvolvimento de automações low code.
 ## Conecte-se comigo
 <p align="left">
   <a href="mailto: br.serafim@gmail.com">
